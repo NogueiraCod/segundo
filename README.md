@@ -1,2 +1,1 @@
-# pessoal
-Apresentação pessoal
+Projeto para apresentação pessoal.
